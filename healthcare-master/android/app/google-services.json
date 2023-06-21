@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "690740965720",
+    "project_id": "app-test-vitalconsult",
+    "storage_bucket": "app-test-vitalconsult.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690740965720:android:69fdd8131c85c168f0752d",
+        "android_client_info": {
+          "package_name": "com.vitalconsult"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690740965720-o15p6g04e46k8clmrbscjhtl5t806d6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vitalconsult",
+            "certificate_hash": "6d1a77c210acc1d689e9e3a3c44ebf85bdabd85c"
+          }
+        },
+        {
+          "client_id": "690740965720-69qd596g46h209gs052d5cgev9nucuql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAik7szvbM1HYLD_u_a8vslbg7HXa9HHHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690740965720-69qd596g46h209gs052d5cgev9nucuql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
